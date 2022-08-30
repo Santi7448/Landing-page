@@ -89,6 +89,7 @@ html, body {
     width: 700px;
     border-radius: 20px;
     margin-left: 30px;
+    border: black solid;
 }
 
 .title-text button {
