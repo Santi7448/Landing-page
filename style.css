@@ -17,7 +17,7 @@ html, body {
 
 
 .top {
-    background-color: #1F2937;
+    background-color:#1F2937;
     
     
 
@@ -27,6 +27,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: gray;
     
 }
 
@@ -138,7 +139,7 @@ html, body {
       }
 
       .quote-part {
-          background-color: #e5e7eb;
+          background-color:#e5e7eb;
           
           height: 35vh;
           display: flex;
