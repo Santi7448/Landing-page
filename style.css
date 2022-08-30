@@ -103,25 +103,13 @@ html, body {
     
     }
 
-    .tomato {
+    .food {
         width: 300px;
         border-radius: 30px;
+        border: solid black;
     }
 
-    .garlic {
-        width: 300px;
-        border-radius: 30px;
-    }
-
-    .onion {
-        width: 300px;
-        border-radius: 30px;
-    }
-
-    .olive-oil {
-        width: 300px;
-        border-radius: 30px;
-    }
+   
 
     .random-info {
         display: flex;
