@@ -119,15 +119,14 @@ html, body {
         gap: 40px;
         margin-top: -120px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 20px;
-
         
 
     }
 
     .image-text {
-        margin-left: 90px;
+        margin-left: 77px;
         margin-top: 10px;
+        font-size: 27px;
     }
     .middle-title {
        align-self: center;
